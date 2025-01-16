@@ -26,3 +26,9 @@ Usage Instructions:
 
 * Clone or download the repository.
 * Open index.html in your preferred browser to view the project.
+
+![image](https://github.com/user-attachments/assets/5fa561cb-f5d2-4dfd-b1c6-dcdadd3bd7cf)
+
+![image](https://github.com/user-attachments/assets/495f6f81-3c33-4fa0-8182-2174955fffce)
+
+![image](https://github.com/user-attachments/assets/4c4c3f21-2e3a-4c19-a013-c2afce7f0054)
