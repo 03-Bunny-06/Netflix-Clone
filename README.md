@@ -1,39 +1,35 @@
-**Netflix Clone Website**
+# Netflix Clone Website
 
-Project Overview:
+## Project Overview
 
-This project is a Netflix Clone created using HTML and CSS. The clone replicates the design and layout of Netflix's landing page, showcasing its user-friendly interface and visually appealing content presentation. The goal of this project is to provide a foundational understanding of web design and responsive layout implementation.
+This project is a **Netflix Clone** created using **HTML and CSS**. The clone replicates the **design and layout** of Netflix's landing page, showcasing its **user-friendly interface** and visually appealing **content presentation**. The goal of this project is to provide a foundational understanding of **web design** and **responsive layout implementation**.
 
-<hr />
+## Features
 
-Features:
+- **Hero Section:** Includes a **promotional headline**, **tagline**, and an **email subscription form**.
+- **Multilingual Support:** A **dropdown menu** for language selection.
+- **Content Sections:**
+  - **Enjoy on TV**
+  - **Download shows to watch offline**
+  - **Watch everywhere**
+  - **Create profiles for kids**
+- **FAQs Section:** Addressing common questions with a **clean accordion-like design**.
+- **Footer Section:** Provides **navigation links** and **contact information**.
+- **Responsive Design:** Ensures **optimal viewing** across devices.
 
-* Hero Section: Includes a promotional headline, tagline, and an email subscription form.
-* Multilingual Support: A dropdown menu for language selection.
-* Content Sections:
-1. Enjoy on TV
-2. Download shows to watch offline
-3. Watch everywhere
-4. Create profiles for kids
-* FAQs Section: Addressing common questions with a clean accordion-like design.
-* Footer Section: Provides navigation links and contact information.
-* Responsive Design: Ensures optimal viewing across devices.
+## Technologies Used
 
-<hr/>
+- **HTML5:** For semantic structure.
+- **CSS3:** For styling and layout, including **responsive design**.
 
-Technologies Used:
+## Usage Instructions
 
-1. HTML5: For semantic structure.
-2. CSS3: For styling and layout, including a responsive design.
+1. **Clone or download the repository:**
+   ```sh
+   git clone <repository-url>
+   ```
+2. **Open `index.html` in your preferred browser** to view the project.
 
-<hr/>
-
-Usage Instructions:
-
-* Clone or download the repository.
-* Open index.html in your preferred browser to view the project.
-
-<hr/>
 
 ![image](https://github.com/user-attachments/assets/5fa561cb-f5d2-4dfd-b1c6-dcdadd3bd7cf)
 
