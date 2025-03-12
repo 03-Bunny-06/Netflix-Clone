@@ -33,8 +33,5 @@ This project is a **Netflix Clone** created using **HTML and CSS**. The clone re
 
 ![image](https://github.com/user-attachments/assets/5fa561cb-f5d2-4dfd-b1c6-dcdadd3bd7cf)
 
-![image](https://github.com/user-attachments/assets/495f6f81-3c33-4fa0-8182-2174955fffce)
+![image](https://github.com/user-attachments/assets/7b015b95-dc43-42d2-9ec1-03e44e3e6710)
 
-![image](https://github.com/user-attachments/assets/ca37d3b7-7f9c-4c37-9197-7230b8da1903)
-
-![image](https://github.com/user-attachments/assets/4c4c3f21-2e3a-4c19-a013-c2afce7f0054)
